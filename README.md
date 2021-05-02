@@ -4,7 +4,7 @@ Rock-paper-scissors-lizard-Spock is an expansion of the classic selection method
 of rock-paper-scissors. It operates under the same basic principle but includes two additional weapons: the lizard and the Spock. This way reduces the chances of ending in a
 tie. Sam Kass and Karen Bryla invented the game.
 
-![gameRules](img/img1.png | width=100)
+<img src="img/img1.png" width="450" height="400">
 
 ## Rules:
 • Scissors cut paper
